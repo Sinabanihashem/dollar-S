@@ -23,11 +23,11 @@
 
 ---
 
-🧠 استفاده
+## 🧠 استفاده
 
 فایل را اجرا کنید:
 
-python sina_dollar.py
+```python sina_dollar.py```
 
 نمونه خروجی:
 
@@ -44,7 +44,7 @@ python sina_dollar.py
 
 ---
 
-🔗 API Info
+## API Info
 
 Endpoint:
 
@@ -57,7 +57,7 @@ Source: tgju.org
 
 ---
 
-👨‍💻 Developer
+## 👨‍💻 Developer
 
 Created by (Rubika): @Sinabani_api
 Hosted on: Cloudflare Workers
