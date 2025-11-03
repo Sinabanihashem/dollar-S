@@ -17,8 +17,8 @@
 
 ابتدا پیش‌نیازها را نصب کنید:
 
-```bash
-pip install requests rich
+```bash```
+```pip install requests rich```
 
 
 ---
